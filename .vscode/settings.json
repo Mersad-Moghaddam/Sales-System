@@ -1,4 +1,0 @@
-{
-    "python.disableInstallationCheck": true,
-    "python.defaultInterpreterPath": "/usr/local/bin/python3"
-}
